@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <p>终于没有报错了，气死了</p>
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
